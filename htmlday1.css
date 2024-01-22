@@ -1,0 +1,16 @@
+
+h1{
+    color: rgb(149, 96, 219);
+}
+
+span h1{
+    color: aqua;
+}
+
+#name{
+    color: brown;
+}
+
+.s{
+    color: cornflowerblue;
+}
